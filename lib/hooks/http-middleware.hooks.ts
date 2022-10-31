@@ -1,4 +1,4 @@
-import { Request, Response, NextFunction, Middleware } from "@istanbul/http";
+import { Request, Response, NextFunction, Middleware } from "@galatajs/http";
 import { ValidationError } from "class-validator";
 import { Newable } from "../types/types";
 import { ValidateOptions, ValidateResult } from "./hook.types";

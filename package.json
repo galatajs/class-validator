@@ -1,11 +1,10 @@
 {
-  "name": "@istanbul/class-validator",
-  "version": "0.0.1",
-  "description": "Class-Validator package of istanbul framework",
-  "homepage": "https://github.com/istanbulnode/class-validator#readme",
+  "name": "@galatajs/class-validator",
+  "version": "0.1.1",
+  "description": "Class-Validator package of galatajs framework",
+  "homepage": "https://github.com/galatajs/class-validator#readme",
   "keywords": [
     "typescript",
-    "istanbul",
     "validation",
     "class-validator"
   ],
@@ -13,10 +12,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/istanbulnode/class-validator.git"
+    "url": "git+https://github.com/galatajs/class-validator.git"
   },
   "bugs": {
-    "url": "https://github.com/istanbulnode/class-validator/issues"
+    "url": "https://github.com/galatajs/class-validator/issues"
   },
   "directories": {
     "lib": "lib",
@@ -38,8 +37,8 @@
     "class-validator": "^0.13.2"
   },
   "devDependencies": {
-    "@istanbul/http": "^0.0.20",
-    "@istanbul/ws": "^0.0.20",
+    "@galatajs/http": "^0.1.1",
+    "@galatajs/ws": "^0.1.1",
     "@types/jest": "^28.1.3",
     "jest": "^28.1.1",
     "ts-jest": "^28.0.5",

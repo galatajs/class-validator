@@ -4,7 +4,7 @@ import {
   NextFunction,
   InternalMiddleware,
   Socket,
-} from "@istanbul/ws";
+} from "@galatajs/ws";
 import { ValidationError } from "class-validator";
 import { Newable } from "../types/types";
 import { ValidateOptions, ValidateResult } from "./hook.types";
